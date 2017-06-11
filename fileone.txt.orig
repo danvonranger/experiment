@@ -1,7 +1,12 @@
 Line One version2
-Line Two
 <<<<<<< HEAD
+Line Two
 Line Three version1
 =======
+Line Two from site
 Line Three version2
->>>>>>> 7a7be2abad2aa730eb6334ed8309751fc0a85191
+Line Four
+Line Ffive
+Line Six
+Line Seven
+>>>>>>> bff576db40f94ccea4c4f9945cce76476f56809e
