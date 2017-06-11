@@ -1,0 +1,7 @@
+Line One version2
+Line Two
+<<<<<<< HEAD
+Line Three version1
+=======
+Line Three version2
+>>>>>>> 7a7be2abad2aa730eb6334ed8309751fc0a85191
