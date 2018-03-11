@@ -17,8 +17,5 @@ module.exports = {
                 presets: ['env', 'stage-0']
             }
         }]
-    },
-    externals: {
-           "child_process": "child_process",        
-    },   
+    }   
 }
