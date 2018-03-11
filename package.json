@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rm -rf node_modules",
-    "build": "npm run clean && npm install && webpack"
+    "clean": "rm -rf dist",
+    "build": "webpack",
+    "rebuild": "npm run clean && npm install && npm run build",
+    "start": "webpack-dev-server --output-public-path=/dist/"
   },
   "repository": {
     "type": "git",
